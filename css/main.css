@@ -21,3 +21,9 @@ body {
     color: #2E5CF5;
 }
 
+.hero-section {
+    height: 600px;
+    background-image: url('../assets/img/herobackground.png');
+    background-repeat:no-repeat;
+    margin: auto;
+}
