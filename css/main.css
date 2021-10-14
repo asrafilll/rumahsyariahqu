@@ -1,3 +1,23 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    color:#141414;
 }
+/* Main Home */
+
+.navbar {
+    margin-top: 30px;
+}
+
+.nav-link.active {
+    font-weight: bold;
+    color: #2E5CF5 !important;
+}
+
+.nav-link:hover {
+    color: #2E5CF5 !important;
+}
+
+.nav-span {
+    color: #2E5CF5;
+}
+
